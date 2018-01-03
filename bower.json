@@ -1,0 +1,23 @@
+{
+  "name": "learn_react_express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Prem Kumar <pkshanklas@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "es6-shim": "~0.31.2",
+    "react": "^16.1.0",
+    "jquery": "~2.1.4",
+    "skeleton": "^2.0.4"
+  }
+}
